@@ -4,7 +4,7 @@ module.exports = {
     '~/plugins/vuetify.js'
   ],
   build: {
-    extractCss: true,
+    extractCSS: true,
     optimization: {
       splitChunks: {
         cacheGroups: {
